@@ -23,7 +23,9 @@ The goal is to identify:
 - product_categories
 - territories
 - marketing_campaigns
+The final dataset used for analysis can be found here:
 
+outputs/financial_results.csv
 ---
 
 ## Key Metrics
